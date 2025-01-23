@@ -1,6 +1,8 @@
 # CODIGO
 
-*Importando xlwings* Importamos a biblioteca xlwings para interagir com o Excel.
+*Importando xlwings* 
+
+Importando a biblioteca xlwings para interagir com o Excel.
 
 ![image](https://github.com/user-attachments/assets/4b5443d8-2ade-48e0-af92-d74c15160d1f)
 
