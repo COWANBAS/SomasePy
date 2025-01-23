@@ -20,4 +20,8 @@ Itera sobre os valores e aplica o critério, somando os valores que atendem ao c
 
 ![image](https://github.com/user-attachments/assets/6a2014ab-7aa0-483c-8c53-c77360cfc118)
 
-No excel a tabela A seria somda do A1 ate o A10 e o B1 ate B10
+# EXEMPLO
+
+ No excel a tabela seria somada do A1 ate o A10 e o B1 ate B10
+ 
+ =somase(A1:A10, B1:B10, "Critério")
