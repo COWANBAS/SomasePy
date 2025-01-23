@@ -6,7 +6,7 @@ Importando a biblioteca xlwings para interagir com o Excel.
 
 ![image](https://github.com/user-attachments/assets/4b5443d8-2ade-48e0-af92-d74c15160d1f)
 
-*range_values* 
+*Range_values* 
 
 O "@xw.func" registra a função como uma função personalizada do Excel, (intervalo de valores a serem somados), criteria_range (intervalo de valores a serem comparados com o critério), e criteria (critério para a soma).
 
