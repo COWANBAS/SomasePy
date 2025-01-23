@@ -22,6 +22,6 @@ Itera sobre os valores e aplica o critério, somando os valores que atendem ao c
 
 # EXEMPLO
 
- No excel a tabela seria somada do A1 ate o A10 e o B1 ate B10
+ No excel a tabela seria somada do "A1 ao A10" e "B1 ao B10"
  
  =somase(A1:A10, B1:B10, "Critério")
